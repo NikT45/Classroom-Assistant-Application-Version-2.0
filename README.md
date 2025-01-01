@@ -4,9 +4,8 @@
 
 ## Project Description
 
---- 
-
 This project is an expansion of a previous Java-based project of mine. In this version of the project, I have completely redesigned the code, utilizing React, Next.js, and Neon.
+
 ---
 
 ## Purpose
